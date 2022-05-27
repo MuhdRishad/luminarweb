@@ -1,0 +1,60 @@
+
+.any_doubts{
+    color: white;
+    margin-left: 18%;
+    font-size: small;
+}
+.fa-solid{
+    margin-left: 10px;
+    color: white;
+}
+.d-block{
+    height: 530px;  
+}
+.inside{
+    text-align: left;
+    font-size: medium;
+    line-height: 1.5;
+}
+.button{
+    color: white;
+    background-color: darkmagenta;
+    padding: 10px 25px 10px 25px;
+    border-radius: 20px;
+    border: none;
+    margin-top: 30px;
+}
+.button:hover{
+    background-color: rgb(206, 85, 243);
+}
+.luminar{
+    color: rebeccapurple;
+    margin-top: 100px;
+}
+.learn_more{
+    color: white;
+    background-color: darkmagenta;
+    padding: 10px 25px 10px 25px;
+    border-radius: 20px;
+    border: 2px solid darkmagenta;
+    margin-top: 20px;
+}
+.learn_more:hover{
+    background-color: rgb(255, 255, 255);
+    color: darkmagenta;
+}
+.about{
+    color: rgb(34, 15, 65);
+    margin-left: -1px;
+    font-size: 17px;
+    margin-top: 35px;
+    line-height: 2;
+    font-family: 'Muli' !important;
+}
+.image_ai_ds_ml{
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
